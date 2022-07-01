@@ -1,5 +1,5 @@
 # About Me:
-<br>🌱 I’m currently learning Swift, IOS Development<br><br>⚡ Fun fact: I'm a F1 driver
+<br>🌱 I’m currently learning Swift, IOS Development<br><br>⚡ Fun fact: I'm an F1 driver
 
 
 ## 🌐 Socials:
