@@ -15,7 +15,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000753.2bbcce2ab5584ac1890831283093feab.2009)]
----
-[![](https://visitcount.itsvg.in/api?id=mehmetkaandemir&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
